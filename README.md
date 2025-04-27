@@ -1,2 +1,2 @@
-# lab-sam-greet-me
+# samCLI-greet-me
 AWS Serverless
